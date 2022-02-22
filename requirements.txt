@@ -1,4 +1,0 @@
-!pip install tensorflow==1.15.0
-!pip install transformers
-!pip install tensorflow-gpu
-!pip install tensorflow==2.3.0
